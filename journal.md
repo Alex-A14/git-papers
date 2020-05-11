@@ -1,6 +1,8 @@
 # Cool paper
 Author: ME!
 
-Introduction
+## Introduction
 
-Method
+## Method
+
+## References
