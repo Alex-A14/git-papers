@@ -6,3 +6,6 @@ Author: ME!
 ## Method
 
 ## References
+
+## Appendix A
+Stimuli
