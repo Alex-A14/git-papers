@@ -5,6 +5,8 @@ Author: ME!
 
 ## Method
 
+## Discussion
+
 ## References
 
 ## Appendix A
